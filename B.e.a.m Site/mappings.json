@@ -1,0 +1,93 @@
+{
+  "craft_aliases": {
+    "bumper": [
+      "front bumpers",
+      "rear bumpers",
+      "bumpers",
+      "grilles",
+      "grille"
+    ],
+    "skirts": [
+      "skirts",
+      "side skirts",
+      "fender",
+      "fenders",
+      "right fender",
+      "left fender"
+    ],
+    "spoiler": [
+      "spoiler",
+      "spoilers"
+    ],
+    "exhaust": [
+      "exhaust",
+      "exhausts"
+    ],
+    "hood": [
+      "hood",
+      "hoods"
+    ],
+    "roof": [
+      "roof"
+    ],
+    "rollcage": [
+      "roll cage",
+      "roll cages"
+    ],
+    "window tint": [
+      "window tint",
+      "window tints"
+    ],
+    "externals": [
+      "mirrors"
+    ],
+    "exterior": [
+      "trim",
+      "trims",
+      "trim a",
+      "trim b",
+      "trim c",
+      "aerials",
+      "arch covers",
+      "extras",
+      "fuel tanks",
+      "trunks",
+      "lightbars",
+      "light bars",
+      "engine blocks",
+      "engine block"
+    ],
+    "interior": [
+      "door speakers",
+      "door speaker",
+      "ornaments",
+      "dials",
+      "shifter levers",
+      "shifter lever",
+      "plaques"
+    ],
+    "customplate": [
+      "plate",
+      "plates"
+    ],
+    "rims": [
+      "wheels",
+      "wheel",
+      "rims"
+    ],
+    "paint": [
+      "primary",
+      "secondary",
+      "pearlescent",
+      "wheel color",
+      "wheel paint",
+      "interior",
+      "dashboard"
+    ],
+    "livery": [
+      "livery",
+      "wrap",
+      "wraps"
+    ]
+  }
+}
